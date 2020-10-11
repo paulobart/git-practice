@@ -1,0 +1,3 @@
+Name: Paulo Duarte
+Age: 48
+Favourite color: green
